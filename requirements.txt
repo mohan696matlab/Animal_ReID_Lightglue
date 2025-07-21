@@ -2,6 +2,7 @@ faiss-cpu
 fastapi
 uvicorn
 ipython
+ipywidgets
 ipykernel
 notebook
 numpy
