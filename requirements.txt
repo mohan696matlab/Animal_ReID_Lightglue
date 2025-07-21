@@ -1,0 +1,12 @@
+faiss-cpu
+fastapi
+uvicorn
+ipython
+ipykernel
+notebook
+numpy
+yt-dlp
+pillow
+transformers
+python-multipart
+git+https://github.com/cvg/LightGlue.git
